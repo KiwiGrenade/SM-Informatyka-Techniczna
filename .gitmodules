@@ -1,0 +1,6 @@
+[submodule "sem1/MiASI"]
+	path = sem1/MiASI
+	url = git@github.com:KiwiGrenade/MiASI
+[submodule "sem1/WTI"]
+	path = sem1/WTI
+	url = git@github.com:KiwiGrenade/WTI
