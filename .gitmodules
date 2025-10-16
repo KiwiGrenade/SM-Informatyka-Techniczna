@@ -6,13 +6,13 @@
 	url = git@github.com:KiwiGrenade/WTI
 [submodule "sem2-INS/Seminarium_Specjalnosciowe"]
 	path = sem2-INS/Seminarium_Specjalnosciowe
-	url = git@github.com:KiwiGrenade/SM-ITE-INS-Seminarium-Specjalnosciowe.git
+	url = git@github.com:KiwiGrenade/SM-ITE-INS-2025-2026-Seminarium_Specjalnosciowe.git
 [submodule "sem2-INS/Ochrona_Danych"]
 	path = sem2-INS/Ochrona_Danych
-	url = git@github.com:KiwiGrenade/SM-ITE-INS-Ochrona_Danych.git
+	url = git@github.com:KiwiGrenade/SM-ITE-INS-2025-2026-Ochrona_Danych.git
 [submodule "sem2-INS/Kierowanie_Projektem_Programistycznym"]
 	path = sem2-INS/Kierowanie_Projektem_Programistycznym
-	url = git@github.com:KiwiGrenade/SM-ITE-INS-Kierowanie_Projektem_Programistycznym.git
+	url = git@github.com:KiwiGrenade/SM-ITE-INS-2025-2026-Kierowanie_Projektem_Programistycznym.git
 [submodule "sem2-INS/Rozproszone_Systemy_Baz_Danych"]
 	path = sem2-INS/Rozproszone_Systemy_Baz_Danych
-	url = git@github.com:KiwiGrenade/SM-ITE-INS-Rozproszone_Systemy_Baz_Danych.git
+	url = git@github.com:KiwiGrenade/SM-ITE-INS-2025-2026-Rozproszone_Systemy_Baz_Danych.git
