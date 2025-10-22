@@ -16,3 +16,6 @@
 [submodule "sem2-INS/Rozproszone_Systemy_Baz_Danych"]
 	path = sem2-INS/Rozproszone_Systemy_Baz_Danych
 	url = git@github.com:KiwiGrenade/SM-ITE-INS-2025-2026-Rozproszone_Systemy_Baz_Danych.git
+[submodule "sem2-INS/Programowanie_Aplikacji_Mobilnych"]
+	path = sem2-INS/Programowanie_Aplikacji_Mobilnych
+	url = git@github.com:KiwiGrenade/SM-ITE-INS-2025-2026-Programowanie_Aplikacji_Mobilnych.git
