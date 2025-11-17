@@ -22,3 +22,6 @@
 [submodule "sem2-INS/Interakcja_Czlowiek-Komputer"]
 	path = sem2-INS/Interakcja_Czlowiek-Komputer
 	url = git@github.com:KiwiGrenade/SM-ITE-INS-2025-2026-Interakcja_Czlowiek-Komputer.git
+[submodule "sem2-INS/Elementy_uczenia_glebokiego_i_inzynierii_wiedzy"]
+	path = sem2-INS/Elementy_uczenia_glebokiego_i_inzynierii_wiedzy
+	url = git@github.com:KiwiGrenade/SM-ITE-INS-2025-2026-Elementy_uczenia_glebokiego_i_inzynierii_wiedzy.git
